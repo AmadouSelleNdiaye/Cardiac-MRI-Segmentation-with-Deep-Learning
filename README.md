@@ -1,5 +1,5 @@
 Using the ACDC dataset (100 subjects with ground truth annotations), you'll implement and compare deep learning models for medical image segmentation. The provided codebase includes starter templates and supports training on GPUs/Colab.
-
+Link to the dataset: https://drive.google.com/drive/folders/1FwPJ0KDnKY0MDSTi0bR5jWNhRY415oSW?usp=sharing
 ## Key Tasks
 
 ### 1. Model Architectures
