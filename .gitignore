@@ -1,0 +1,5 @@
+data/cifar-10-python.tar.gz
+data/ift780_acdc.hdf5
+src/UNet_acc_valid_79.pt
+src/YourUNet_85_5_sans augmentation.pt
+src/YourUNet_85_8_avec_augmentation.pt
